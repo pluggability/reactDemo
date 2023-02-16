@@ -62,7 +62,7 @@ export default function App() {
   // curly braces for JS
   return (
     <>
-      <h1>Trading Simulator - Michael</h1>
+      <h1>Trading Simulator - Drew</h1>
       <table>
         <tbody>
           <tr>
